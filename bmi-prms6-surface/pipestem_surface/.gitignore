@@ -1,6 +1,6 @@
 output/
-.out
-.wbal
-.bak
-.txt
+*.out
+*.wbal
+*.bak
+*.txt
 
