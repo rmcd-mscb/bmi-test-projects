@@ -1,0 +1,8 @@
+setup.py
+prms6bmi/__init__.py
+prms6bmi/reader.py
+prms6bmi.egg-info/PKG-INFO
+prms6bmi.egg-info/SOURCES.txt
+prms6bmi.egg-info/dependency_links.txt
+prms6bmi.egg-info/not-zip-safe
+prms6bmi.egg-info/top_level.txt
